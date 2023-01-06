@@ -34,3 +34,23 @@ nav li{
     list-style:none;
     margin-left:50px;
 }
+.banner{
+    display:flex;
+    align-items: center;
+    margin:0 200px;
+}
+.banner-title{
+    font-weight: 700;
+    font-size:85px;
+
+}
+.banner-sub-title{
+    font-weight: 600;
+    font-size:45px;
+
+}
+.banner-discription{
+    color:#757575;
+    font-size:18px;
+    margin-bottom:30px;
+}
